@@ -11,7 +11,7 @@ section{
     align-items: center;
     width: 100%;
     height: 100vh;
-    background: url('img/Madara-1.jpg') no-repeat;
+    background: url('poste.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     animation: animateBg 7s linear infinite;
@@ -78,7 +78,7 @@ h2 {
 }
 .remember-forgot{
     margin: -15px 0 15px;
-    font-size: 9em;
+    font-size: .9em;
     color: #fff;
     display: flex;
     justify-content: space-between;
